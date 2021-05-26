@@ -1,0 +1,1 @@
+data-source add --jndi-name=java:/EmployeeBookDS --name=EmployeeBookDS --connection-url=jdbc:h2:mem:employeebookdb --driver-name=h2 --user-name=sa --password=sa
