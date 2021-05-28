@@ -39,4 +39,6 @@ public class PlayerService {
         return query.getResultList();
     }
 
+    
+
 }

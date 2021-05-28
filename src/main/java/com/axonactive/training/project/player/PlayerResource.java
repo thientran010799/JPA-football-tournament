@@ -40,7 +40,7 @@ public class PlayerResource {
 
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    public List<Player> findAll() {
+    public List<Player>  findAll() {
         return playerService.findAll();
     }
 
